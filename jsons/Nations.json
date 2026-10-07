@@ -44,7 +44,7 @@
 			"favoredReligion": "Christianity",
 			"uniqueName": "Schueberfouer Fair",
 
-			"uniques": ["[+1 Culture, +1 Gold] from all [Happiness] buildings", "[-50]% maintenance cost for buildings [in capital] <while the empire is happy>"],
+			"uniques": ["[+1 Culture, +1 Gold] from all [Happiness] buildings", "[-50]% maintenance cost for [All] buildings [in capital] <while the empire is happy>"],
 			"spyNames": ["Leo", "Mia", "Emma", "Gabriel", "Louis", "Noah", "Léa", "Liam", "Marie", "Joseph"],
 			"cities": ["Luxembourg", "Esch-sur-Alzette", "Dudelange", "Schifflange", "Bettembourg", "Pétange", "Ettelbruck", "Diekirch", "Strassen", "Bertrange", "Belvaux", "Differdange", "Mamer", "Soleuvre", "Wiltz"]
 	},
@@ -1308,7 +1308,7 @@
 	"innerColor": [215, 175, 112],
 
 	"uniqueName": "Premium Wine",
-	"uniques": ["[+1 Culture] from [Wine] tiles [in all cities]", "Double quantity of [Wine] produced", "[+2 Gold] from [Plantation] tiles [in all cities] <after discovering [Economics]>"],
+	"uniques": ["[+1 Culture] from [Wine] tiles [in all cities]", "[+100]% [Wine] resource production", "[+2 Gold] from [Plantation] tiles [in all cities] <after discovering [Economics]>"],
 
 	"spyNames": ["Andrei", "Ion", "Alexandru", "Vasile", "Dumitru", "Sergiu", "Victor", "Mihai", "Grigore", "Gheorghe"],
 	"cities": ["Chișinău", "Tiraspol", "Bălți", "Bender", "Rîbnița", "Tighina", "Cahul", "Comrat", "Călărași", "Cahul", "Ceadîr-Lunga", "Dubăsari", "Edineo?", "Făleşti", "Floreşti", "Glodeni", "Hînceşti", "Ialoveni", "Leova", "Nisporeni", "Ocniţa", "Orhei", "Rezina", "Slobozia", "Soroca", "Străşeni", "Ştefan Vodo?", "Taraclia", "Teleneşti", "Ungheni"]
@@ -3231,7 +3231,7 @@
 	"innerColor": [95, 191, 249],
 
 	"uniqueName": "Zaibatsu",
-	"uniques": ["[+35]% Production when constructing [All] buildings [in all cities] <during a Golden Age>", "Double quantity of [Coal] produced <while the empire is happy>", "[Worker] units gain the [Showa Steel Mill Ability] promotion <hidden from users>"],
+	"uniques": ["[+35]% Production when constructing [All] buildings [in all cities] <during a Golden Age>", "[+100]% [Coal] resource production <while the empire is happy>", "[Worker] units gain the [Showa Steel Mill Ability] promotion <hidden from users>"],
 
 	"spyNames": ["Nikan", "Fiyanggū", "Hūlušun", "Jakdan", "Jirgalang", "Manggūltai", "Sahaliyan", "Tayiji", "Elden", "Aotun"],
 	"cities": ["Xinjing", "Harbin", "Mukden", "Dalian", "Fengtian", "Jilin", "Qiqihar", "Andong", "Fushun", "Anshan", "Yingkou", "Tonghua", "Jinzhou", "Chengde", "Mudanjiang", "Heihe", "Jiamusi", "Liaoyang", "Siping", "Baicheng", "Huludao", "Benxi", "Fuxin", "Suihua", "Daqing"],
@@ -3565,7 +3565,7 @@
 	"uniqueName": "Planned Socialist Economy",
 	"uniques": ["Comment [Nullifies Production penalties from unhappiness]",
 	"Comment [-50% growth penalties from unhappiness]",
-	"[-37]% growth [in all cities] <when between [-10] and [-1] [Happiness]> <hidden from users>",
+	"[+37]% growth [in all cities] <when between [-10] and [-1] [Happiness]> <hidden from users>",
 	"[+50]% [Production] [in all cities] <when below [-10] [Happiness]> <hidden from users>",
 	"[-5]% [Gold] [in all cities] <when between [-10] and [-1] [Happiness]>",
 	"[-10]% [Gold] [in all cities] <when below [-10] [Happiness]>",
@@ -5479,7 +5479,7 @@
 	"uniqueName": "Fervour of the Eagle",
 	"uniques": [
 	"Comment [Whenever a Land unit kills an enemy unit it recovers 15 HP, gains +1 Movement, and gains 10% strength for 1 turn (Double these bonuses for mounted units)]",
-	"Double quantity of [Horses] produced <in [in capital] cities>",
+	"[+100]% [Horses] resource production <in [in capital] cities>",
 	"Earn [10]% of killed [Barbarian] unit's [Strength] as [Science]",
 	"[{non-[Mounted]} {non-[Civilian]}] units gain the [Kazakh Ability] promotion <hidden from users>",
 	"[Mounted] units gain the [Kazakh Mounted Ability] promotion <hidden from users>"],
