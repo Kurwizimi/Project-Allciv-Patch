@@ -1139,7 +1139,7 @@
 			"uniques": ["[+10]% Production when constructing [All] buildings [in this city]",
 			"[-25]% construction time for [Mine] improvements <in [in this city] cities>",
 			"[+1 Production] from [Iron] tiles [in this city]",
-			"Double quantity of [Iron] produced <in [in this city] cities>"],
+			"[+100]% [Iron] resource production <in [in this city] cities>"],
 			"requiredTech": "Machinery"
 		},
 		//Czechia
@@ -1630,7 +1630,7 @@
 				"[+1 Food] from [Bananas] tiles [in this city]",
 				"[+1 Food] from [Wheat] tiles [in this city]",
 				"[+1 Production] from [Pasture] tiles [in this city]",
-				"Double quantity of [Horses] produced <in [in this city] cities>"],
+				"[+100]% [Horses] resource production <in [in this city] cities>"],
 			"requiredTech": "Pottery"
 		},
 		//Jomon
