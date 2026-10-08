@@ -56,7 +56,7 @@
 		"production": 1,
 		"terrainsCanBeBuiltOn": ["Desert", "Plains", "Hill"],
 		"turnsToBuild": 7,
-		"uniques": ["[+1 Faith, +1 Culture] for each adjacent [Holy Site]", "[+1 Science, +1 Culture] for each adjacent [Academy]", "[+1 Gold, +1 Culture] for each adjacent [Customs House]", "[+2 Culture] for each adjacent [Landmark]", "[+1 Production, +1 Culture] for each adjacent [Manufactory]"],
+		"uniques": ["[+1 Faith, +1 Culture] for each adjacent [Holy site]", "[+1 Science, +1 Culture] for each adjacent [Academy]", "[+1 Gold, +1 Culture] for each adjacent [Customs house]", "[+2 Culture] for each adjacent [Landmark]", "[+1 Production, +1 Culture] for each adjacent [Manufactory]"],
 		"techRequired": "Calendar",
 		"shortcutKey": "M"
 	},
@@ -78,7 +78,7 @@
 		"culture": 1,
 		"terrainsCanBeBuiltOn": ["Land", "Forest", "Jungle"],
 		"turnsToBuild": 4,
-		"uniques": ["Can only be built on [Open terrain] tiles", "[+1 Happiness] for each adjacent [City center]", "[+1 Culture] for each adjacent [Bonus Resource]",
+		"uniques": ["Can only be built on [Open terrain] tiles", "[+1 Happiness] for each adjacent [City center]", "[+1 Culture] for each adjacent [Bonus resource]",
 		"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Batey] tiles>"],
 		"civilopediaText": [{ "text": "The Mesoamerican ball game, called in Mexico “ulama,” is ancient. While it was likely invented by the Olmec several thousand years ago, it became popular in the first millennium A.D., spreading beyond its Mesoamerican origins and into North America and the Caribbean. In its Mayan versions, it involved getting a rubber ball through a stone ring (perhaps representing the sun in its journeys through the underworld) without using one’s hands. The players were often war captives, and the losers could be sacrificed to the gods. Images of such sacrifices are clearly shown on the walls of the Maya ball courts at Chichén Itzá. \nThe bateyes at Caguana in Puerto Rico are no such grand affairs. Here, they are roughly rectangular, flat pitches without the stone rings that characterize Mayan courts. The rules, then, were likely different, involving throwing the ball between teams, but the link between the court and religious life remained – Caguana’s bateyes are decorated with petroglyphs (stone carvings) and are clustered around the base of a mountain that was the center of Taíno religious life in Puerto Rico. \nThe Taíno word “batey” has had a bad afterlife in the years since colonization. While the word originally means “ball court,” it is now widely used to refer to temporary housing for workers on sugar plantations, both enslaved peoples on historical plantations and present-day workers, many of whom are still forced into involuntary labor. It is unclear how the Taíno word for ball court has come to refer to something so different; here, “batey” refers to the original meaning of the word." }],
 		"techRequired": "Philosophy",
@@ -170,7 +170,7 @@
 			"production": 1,
 			"terrainsCanBeBuiltOn": ["Grassland","Plains","Tundra"],
 			"turnsToBuild": 5,
-			"uniques": ["[+1 Production] <after discovering [Civil Service]>", "[+1 Production] for each adjacent [Strategic Resource]", "[+1 Gold] for each adjacent [Luxury Resource]", "[+1 Gold] for each adjacent [Luxury Resource] <after discovering [Guilds]>", "[+1 Food] for each adjacent [Bonus Resource]"],
+			"uniques": ["[+1 Production] <after discovering [Civil Service]>", "[+1 Production] for each adjacent [Strategic resource]", "[+1 Gold] for each adjacent [Luxury resource]", "[+1 Gold] for each adjacent [Luxury resource] <after discovering [Guilds]>", "[+1 Food] for each adjacent [Bonus resource]"],
 			"techRequired": "Animal Husbandry",
 		},
 		//Gaul
@@ -181,10 +181,10 @@
 			"terrainsCanBeBuiltOn": ["Grassland","Plains","Tundra"],
 			"turnsToBuild": 8,
 			"uniques": ["Gives a defensive bonus of [25]%",
-			 "[+1 Production] for each adjacent [Strategic Resource]",
+			 "[+1 Production] for each adjacent [Strategic resource]",
 			 "[+1 Production] for each adjacent [Quarry]",
-			 "[+1 Production] for each adjacent [Strategic Resource] <after discovering [Industrialization]>",
-		 		"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Oppidum] tiles>"],
+			 "[+1 Production] for each adjacent [Strategic resource] <after discovering [Industrialization]>",
+		 	 "Cannot be built on [Land] tiles <with [1] to [6] neighboring [Oppidum] tiles>"],
 			"techRequired": "Iron Working",
 		},
 		//Grenada
@@ -387,7 +387,7 @@
 	"uniques": [
 		"[+1 Happiness, +1 Culture] for each adjacent [City center]",
 		"[+1 Culture, +1 Faith] for each adjacent [Lakes]",
-		"[+3 Culture, +3 Faith] for each adjacent [Natural wonder]",
+		"[+3 Culture, +3 Faith] for each adjacent [Natural Wonder]",
 		"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Kofun] tiles>",
 		"Pillaging this improvement yields approximately [+100 Gold]"
 	],
@@ -413,7 +413,7 @@
 	"food": 1,
 	"terrainsCanBeBuiltOn": ["Grassland", "Plains"],
 	"uniques": [
-	"Can only be built on [Open terrain] tiles <with [1] to [6] neighboring [Resource] tiles>",
+	"Can only be built on [Open terrain] tiles <with [1] to [6] neighboring [resource] tiles>",
 	"[+1 Production] <with [1] to [6] neighboring [Coast] tiles>",
 	"[+1 Food] <with [1] to [6] neighboring [Jungle] tiles>",
 	"[+1 Production] <with [3] to [6] neighboring [Jungle] tiles>"]
