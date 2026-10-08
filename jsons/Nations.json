@@ -365,7 +365,7 @@
 			"outerColor": [119, 91, 89],
 			"favoredReligion": "Odinism",
 			"uniqueName": "Valhalla",
-			"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Faith]", "[Faith] cost of purchasing [All] units [-33]%", "[{Military}{Water}] units gain the [Coastal Raider I] promotion"],
+			"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Faith]", "[Faith] cost of purchasing [All] units [-33]%", "[{Military} {Water}] units gain the [Coastal Raider I] promotion"],
 
 			"spyNames": ["Jón", "Guðrún", "Anna", "Magnús", "Kristín", "Gunnar", "Ólafur", "Sigríður", "Margrét", "Einar"],
 			"cities": ["Reykjavik", "Akureyri", "Kópavogur", "Hafnarfjörður", "Reykjanesbær", "Garðabær", "Mosfellsbær", "Árborg", "Akranes", "Selfoss", "Vestmannaeyjar", "Seltjarnarnes", "Grindavík", "Ísafjörður", "Húsavík", "Egilsstaðir", "Borgarnes", "Sandgerði", "Sauðárkrókur", "Ólafsvík"],
@@ -1028,7 +1028,7 @@
 	"innerColor": [28, 40, 77],
 
 	"uniqueName": "Eight Banners",
-	"uniques": ["Provides the cheapest [Production] building in your first [8] cities for free", "[-100]% maintenance costs <for [Mounted] units>", "[-100]% maintenance costs <for [Armour] units>"],
+	"uniques": ["Provides the cheapest [Production] building in your first [8] cities for free", "[-100]% maintenance costs <for [Mounted] units>", "[-100]% maintenance costs <for [Armor] units>"],
 
 	"spyNames": ["Ciši", "Yatu", "Fuhai", "Sambooju", "Cangge", "Bešeo", "Canwen", "Badeboo", "Tuktan", "Ajintai"],
 	"cities": ["Shenyang", "Harbin", "Changchun", "Jilin City", "Dalian", "Anshan", "Fushun", "Benxi", "Yingkou", "Siping", "Liaoyang", "Fuxin", "Liaoyang", "Tieling", "Huludao", "Panjin", "Chaoyang", "Fengcheng", "Jinzhou", "Huludao", "Xinmin", "Kaiyuan", "Tonghua", "Dandong", "Yingkou", "Fuxin", "Fushun", "Liaoyang", "Huludao", "Shenyang", "Benxi"]
@@ -1083,7 +1083,7 @@
 	"innerColor": [206, 129, 71],
 
 	"uniqueName": "Boyar Aristocracy",
-	"uniques": ["[-50]% Food consumption by specialists [in capital]", "[-50]% Unhappiness from [Specialists] [in capital]", "[+2 Faith] from every specialist [in capital]"],
+	"uniques": ["[-50]% Food consumption by [Specialists] [in capital]", "[-50]% Unhappiness from [Specialists] [in capital]", "[+2 Faith] from every specialist [in capital]"],
 
 	"spyNames": ["Fevron'ja", "Vasalisa", "Elena", "Marfa", "Fekla", "Ivan", "Georgii", "Dmitrii", "Glanvich", "Grigorii"],
 	"cities": ["Novgorod", "Pskov", "Tver", "Ladoga", "Smolensk", "Veliky Ustyug", "Vologda", "Veliky Novgorod", "Tikhvin", "Torzhok", "Kargopol", "Uglich", "Kholmogory", "Kostroma", "Roslavl", "Kalinin", "Yaroslavl", "Gorodets", "Bely", "Mtsensk", "Ryazan", "Vyatka", "Yuriev-Polsky", "Murom", "Pereslavl-Zalessky", "Kozelsk", "Dmitrov", "Galich", "Uglitch", "Belev"]
@@ -1579,7 +1579,7 @@
 	"innerColor": [255, 160, 0],
 
 	"uniqueName": "Alam Melayu",
-	"uniques": ["[+2 Gold, +2 Culture] from [Fishing Boats] tiles [in all cities]", "[+25]% Strength <for [Water] units> <when fighting in [Water Resource] tiles>", "[+25]% Strength <when defending> <for [Water] units> <in [Water Resource] tiles>"],
+	"uniques": ["[+2 Gold, +2 Culture] from [Fishing Boats] tiles [in all cities]", "[+25]% Strength <for [Water] units> <when fighting in [Water resource] tiles>", "[+25]% Strength <when defending> <for [Water] units> <in [Water resource] tiles>"],
 
 	"spyNames": ["Amir", "Adam", "Aiman", "Muhammad", "Ahmad", "Aisyah", "Farah", "Nur", "Zara", "Daniel"],
 	"cities": ["Kuala Lumpur", "Malacca", "Johor Bahru", "Penang", "Ipoh", "Putrajaya", "Subang Jaya", "Kota Bharu", "Kuantan", "Alor Setar", "Seremban", "Kangar", "Sham Alam", "Kuala Terengganu", "Kuching", "Klang", "Ampang", "Petaling Jaya", "Pekan", "Pulau Langkwai", "Seri Mentanti", "Muar", "Tangkak", "Temerloh", "Kuala Lipis", "Tanah Rata", "Brinchang", "Genting"]
@@ -1633,7 +1633,7 @@
 	"innerColor": [255, 23, 106],
 
 	"uniqueName": "Potlash",
-	"uniques": ["[+1 Culture] from every [Forest] <within [1] tiles of a [Coast]>", "Allied City-States provide [Production] equal to [+25]% of what they produce for themselves <in [capital] cities>", "Allied City-States provide [Food] equal to [+25]% of what they produce for themselves <in [capital] cities>"],
+	"uniques": ["[+1 Culture] from every [Forest] <within [1] tiles of a [Coast]>", "Allied City-States provide [Production] equal to [+25]% of what they produce for themselves <in [Capital] cities>", "Allied City-States provide [Food] equal to [+25]% of what they produce for themselves <in [Capital] cities>"],
 
 	"spyNames": ["Amis", "Gwaai", "Koyah", "Xhuuyaa", "Skaay", "Dal Kún", "Dal Ḵáahlii", "Gid G̱waa GyaaG̱a GawG̱a", "Juus Ḵáahlii", "Íits’aaw"],
 	"cities": ["SGang Gwaay", "Haena", "Skidegate", "Cumshewa", "Masset", "Dadens", "Skedans", "Hlk'yah GaawGa", "Kasaan", "Howkan", "Sukkwan", "Klinkwan", "Tanu", "Yaku", "Kayung", "Kung", "Yan", "Naikun", "Kweundlas", "Hilelung", "Cha'atl", "Gahlinskun", "Djigogiga", "Atanus", "Chets", "Gado", "Gitinkalana", "Hagi", "Chaahl", "Lanadagunga", "Huados"]
@@ -1849,7 +1849,7 @@
 	"outerColor": [230, 57, 9],
 
 	"uniqueName": "Conch Republic",
-	"uniques": ["[+1 Gold] from [Coastal] tiles [in all cities]", "[-1 Gold] from [Coast] tiles [in all cities]", "[Great Artist] is earned [+25]% faster <in [all coastal cities] cities>"],
+	"uniques": ["[+1 Gold] from [Coastal] tiles [in all cities]", "[-1 Gold] from [Coast] tiles [in all cities]", "[Great Artist] is earned [+25]% faster <in [Coastal] cities>"],
 
 	"spyNames": ["John", "Michael", "Chris", "Lisa", "Ashley", "Joe", "Brian", "James", "Amanda", "Nicole"],
 	"cities": ["Nassau", "Salina Point", "Great Harbour Cay", "Alice Town", "New Bight", "Freeport", "Landrial Point", "Pelican Point", "George Town", "Dunmore Town", "Matthew Town", "Burnt Ground", "Abraham's Bay", "Treasure Cay", "Nicholls Town", "The Bluff", "Duncan Town", "Port Nelson", "Cockburn Town", "Marsh Harbour", "Moxey Town", "Rock Sound", "Spanish Wells", "West End"],
@@ -2468,7 +2468,7 @@
 },
 {
 	"name": "Buganda",
-	"adjective": ["Bugandan"],
+	"adjective": ["Baganda"],
 	"leaderName": "Muteesa I",
 	"preferredVictoryType": "Cultural",
 	"startBias": ["Plains", "Avoid [Hill]"],
@@ -2488,7 +2488,7 @@
 	"outerColor": [0, 108, 103],
 
 	"uniqueName": "Kabaka of Buganda",
-	"uniques": ["[+3] XP gained from combat <for [Military] units> <in [Friendly land] tiles>", "May buy [Great General] units for [250] [Faith] [in all cities] at an increasing price ([250]) <after generating a Great Prophet>"],
+	"uniques": ["[+3] XP gained from combat <for [Military] units> <in [Friendly Land] tiles>", "May buy [Great General] units for [250] [Faith] [in all cities] at an increasing price ([250]) <after generating a Great Prophet>"],
 
 	"spyNames": ["Abbo", "Balinda", "Damba", "Miremba", "Mukisa", "Natukunda", "Nabirye", "Akiki", "Ochieng", "Kwagala"],
 	"cities": ["Kampala", "Mengo", "Entebbe", "Masaka", "Mukono", "Jinja", "Kawempe", "Njeru", "Mpigi", "Wakiso", "Iganga", "Mityana", "Luwero", "Kyotera", "Buikwe", "Ndejje", "Gayaza", "Namugongo", "Mubende", "Soroti", "Mbale", "Nebbi", "Fort Portal", "Hoima", "Lira", "Tororo", "Moroto", "Arua", "Kapchorwa"],
@@ -2658,7 +2658,7 @@
 
 	"uniqueName": "Hunter-Gatherer Society",
 	"uniques": ["[+1 Food] from [Forest] tiles without [Improvement] [in all cities] <after discovering [Trapping]>",
-	"[+1 Production] from [Bonus Resource] tiles without [Improvement] [in all cities] <after discovering [Animal Husbandry]>",
+	"[+1 Production] from [Bonus resource] tiles without [Improvement] [in all cities] <after discovering [Animal Husbandry]>",
 	"When conquering an encampment, earn [5] Gold and recruit a Barbarian unit"],
 
 	"spyNames": ["Grugg", "Ogg", "Dah", "Mak", "Toomak", "Akh", "Ika", "Hok", "Nala", "Sak"],
@@ -2985,9 +2985,9 @@
 
 	"uniqueName": "Livland Vitality",
 	"uniques": [
-		"[+1 Culture, +1 Happiness] [in non-annexed cities] <in cities with at least [1] [Specialists]>",
-		"[+1 Culture, +1 Science, +1 Happiness, +1 Production] [in non-annexed cities] <in cities with at least [3] [Specialists]>",
-		"[+2 Culture, +2 Science, +2 Happiness, +1 Production] [in non-annexed cities] <in cities with at least [5] [Specialists]>",
+		"[+1 Culture, +1 Happiness] <in [non-[Annexed]] cities> <in cities with at least [1] [Specialists]>",
+		"[+1 Culture, +1 Science, +1 Happiness, +1 Production] <in [non-[Annexed]] cities> <in cities with at least [3] [Specialists]>",
+		"[+2 Culture, +2 Science, +2 Happiness, +1 Production] <in [non-[Annexed]] cities> <in cities with at least [5] [Specialists]>",
 		"[+5] HP when healing <while the empire is happy>"],
 
 	"spyNames": ["Artjoms", "Maksims", "Jānis", "Sofija", "Emīlija", "Gustavs", "Roberts", "Alise", "Marks", "Anna"],
@@ -3396,7 +3396,7 @@
 	"innerColor": [240, 166, 202],
 
 	"uniqueName": "Iomante",
-	"uniques": ["Gain [200] [Faith] <(modified by game speed)> <upon declaring war with a major Civilization>", "Gain [30] [Culture] <(modified by game speed)> <upon declaring war with a major Civilization>", "[+15]% [Faith] [in all cities] <within [1] tiles of a [Camp]>"],
+	"uniques": ["Gain [200] [Faith] <(modified by game speed)> <upon declaring war on [Major] Civilizations>", "Gain [30] [Culture] <(modified by game speed)> <upon declaring war on [Major] Civilizations>", "[+15]% [Faith] [in all cities] <within [1] tiles of a [Camp]>"],
 
 	"spyNames": ["Ainu", "Repun", "Kimun", "Mat", "Hok", "Aship", "Poro", "Upe", "Kamuy", "Chin"],
 	"cities": ["Shiraoi", "Nayoro", "Kushiro", "Obihiro", "Sapporo", "Hakodate", "Asahikawa", "Chitose", "Tomakomai", "Rishiri", "Rebun", "Sakhalin", "Kunashir", "Iturup", "Ushiku", "Akan", "Daisetsuzan", "Shiretoko", "Kushiro Shitsugen", "Toyako", "Abashiri", "Niseko", "Muroran", "Otaru"],
@@ -3526,7 +3526,7 @@
 	"uniqueName": "The Perfect Union",
 	"uniques": [
 	"[+1 Culture, +2 Science] from all [Wonder] buildings",
-	"[+2 Culture, +2 Science] from every [Natural wonder]",
+	"[+2 Culture, +2 Science] from every [Natural Wonder]",
 	"May buy [State Constitution] buildings for [20] [Culture] [in all cities] at an increasing price ([40])",
 	"Comment [[-5]% Culture cost of adopting new Policies for every 2 [State Constitution] buildings constructed with up to -40%]",
 	"[-5]% Culture cost of adopting new Policies <if [State Constitution] is constructed in at least [2] of [in all cities] cities> <hidden from users>",
@@ -4814,7 +4814,7 @@
 	"Comment [[Great Generals] can construct roads instantly in [Jungle] tiles]",
 	"Comment [Civilian units are able to be expended to plant [Jungle] tiles after discovering [Civil Service]]",
 	"[Civilian] units gain the [Great Viet Civilian Ability] promotion <hidden from users>",
-	"[Great Generals] units gain the [Vietnam Ability] promotion <hidden from users>",],
+	"[Great General] units gain the [Vietnam Ability] promotion <hidden from users>",],
 
 	"spyNames": ["Minh", "Giap", "Anh", "Quang", "Khanh", "Linh", "Phong", "Tran", "Diem", "Bao"],
 	"cities": ["Hanoi", "Hue", "Haiphong", "Ha Long", "Dien Bien Phu", "Thai Nguyen", "Vinh", "Nam Dinh", "Hai Duong", "Bac Ninh", "Hoa Binh", "Lang Son", "Ha Giang", "Cao Bang", "Lao Cai", "Son La", "Thai Binh", "Ninh Binh", "Thanh Hoa", "Viet Tri", "Bac Giang", "Bac Kan", "Tuyen Quang", "Yen Bai", "Phu Tho"],
@@ -5211,7 +5211,7 @@
 	"[+1 Happiness, +1 Production, +1 Culture] from [Citadel] tiles [in all cities] <within [2] tiles of a [City center]> <hidden from users>",
 	"[-25]% construction time for [Fort] improvements",
 	"[-100]% maintenance costs <for [Siege] units> <when not at war> <hidden from users>",
-	"[-100]% maintenance costs <for [Armoured] units> <when not at war> <hidden from users>",
+	"[-100]% maintenance costs <for [Armored] units> <when not at war> <hidden from users>",
 	"[-100]% maintenance costs <for [Nuclear Bomber] units> <when not at war> <hidden from users>",
 	"[-100]% maintenance costs <for [Nuclear Missile] units> <when not at war> <hidden from users>"],
 
@@ -5242,14 +5242,14 @@
 	"uniques": [
 	"Comment [Creating cultural buildings in cities provide a boost of 10% [Science] and 10% [Culture] in that city for 4 turns]",
 	"Comment [Some [Science] carries over upon researching a technology (modified by game speed and era)]",
-	"Gain [5] [Science] <upon discovering [Ancient Era] technology> <(modified by game speed)> <hidden from users>",
-	"Gain [15] [Science] <upon discovering [Classical Era] technology> <(modified by game speed)> <hidden from users>",
-	"Gain [35] [Science] <upon discovering [Medieval Era] technology> <(modified by game speed)> <hidden from users>",
-	"Gain [85] [Science] <upon discovering [Renaissance Era] technology> <(modified by game speed)> <hidden from users>",
-	"Gain [150] [Science] <upon discovering [Industrial Era] technology> <(modified by game speed)> <hidden from users>",
-	"Gain [250] [Science] <upon discovering [Modern Era] technology> <(modified by game speed)> <hidden from users>",
-	"Gain [400] [Science] <upon discovering [Atomic Era] technology> <(modified by game speed)> <hidden from users>",
-	"Gain [1000] [Science] <upon discovering [Information Era] technology> <(modified by game speed)> <hidden from users>",
+	"Gain [5] [Science] <upon discovering [Ancient era] technology> <(modified by game speed)> <hidden from users>",
+	"Gain [15] [Science] <upon discovering [Classical era] technology> <(modified by game speed)> <hidden from users>",
+	"Gain [35] [Science] <upon discovering [Medieval era] technology> <(modified by game speed)> <hidden from users>",
+	"Gain [85] [Science] <upon discovering [Renaissance era] technology> <(modified by game speed)> <hidden from users>",
+	"Gain [150] [Science] <upon discovering [Industrial era] technology> <(modified by game speed)> <hidden from users>",
+	"Gain [250] [Science] <upon discovering [Modern era] technology> <(modified by game speed)> <hidden from users>",
+	"Gain [400] [Science] <upon discovering [Atomic era] technology> <(modified by game speed)> <hidden from users>",
+	"Gain [1000] [Science] <upon discovering [Information era] technology> <(modified by game speed)> <hidden from users>",
 	"Gain a free [South Korea Ability] [in all cities] <hidden from users>"],
 
 	"spyNames": ["Hyon-hui", "Jeong-hwa", "Sun-sil", "Chae-so", "Dae-jung", "Soo-yeon", "Ji-eun", "Sang-mi", "Min-soo", "Yeon-hee"],
@@ -5279,14 +5279,14 @@
 	"uniqueName": "Island of Technology",
 	"uniques": [
 		"Enter a 2-turn Golden Age upon discovering a technology with the Golden Age length increasing by 1-turn for every 2 eras",
-		"Empire enters a [2]-turn Golden Age <upon discovering [Ancient Era] technology> <hidden from users>",
-		"Empire enters a [2]-turn Golden Age <upon discovering [Classical Era] technology> <hidden from users>",
-		"Empire enters a [3]-turn Golden Age <upon discovering [Medieval Era] technology> <hidden from users>",
-		"Empire enters a [3]-turn Golden Age <upon discovering [Renaissance Era] technology> <hidden from users>",
-		"Empire enters a [4]-turn Golden Age <upon discovering [Industrial Era] technology> <hidden from users>",
-		"Empire enters a [4]-turn Golden Age <upon discovering [Modern Era] technology> <hidden from users>",
-		"Empire enters a [5]-turn Golden Age <upon discovering [Atomic Era] technology> <hidden from users>",
-		"Empire enters a [5]-turn Golden Age <upon discovering [Information Era] technology> <hidden from users>",
+		"Empire enters a [2]-turn Golden Age <upon discovering [Ancient era] technology> <hidden from users>",
+		"Empire enters a [2]-turn Golden Age <upon discovering [Classical era] technology> <hidden from users>",
+		"Empire enters a [3]-turn Golden Age <upon discovering [Medieval era] technology> <hidden from users>",
+		"Empire enters a [3]-turn Golden Age <upon discovering [Renaissance era] technology> <hidden from users>",
+		"Empire enters a [4]-turn Golden Age <upon discovering [Industrial era] technology> <hidden from users>",
+		"Empire enters a [4]-turn Golden Age <upon discovering [Modern era] technology> <hidden from users>",
+		"Empire enters a [5]-turn Golden Age <upon discovering [Atomic era] technology> <hidden from users>",
+		"Empire enters a [5]-turn Golden Age <upon discovering [Information era] technology> <hidden from users>",
 		"[+1 Science] per [3] social policies adopted",
 
 	],
@@ -5421,7 +5421,7 @@
 	"Upon capturing a city, receive [3] times its [Faith] production as [Faith] immediately <hidden from users>",
 	"Upon capturing a city, receive [3] times its [Gold] production as [Gold] immediately <hidden from users>",
 	"[Gold] cost of purchasing [Basilikoi Paides] buildings [-50]% <in [in annexed cities] cities> <hidden from users>",
-	"[+50]% Production when constructing [Basilikoi Paides] buildings [in anexed cities] <hidden from users>"],
+	"[+50]% Production when constructing [Basilikoi Paides] buildings [in annexed cities] <hidden from users>"],
 
 	"spyNames": ["Gjorgi", "Zoran", "Toshe", "Duško", "Philip", "Kiro", "Rexhep", "Simon", "Archelaus"],
 	"cities": ["Pella", "Vergina", "Thessaloniki", "Amphipolis", "Pydna", "Dion", "Philippi", "Heraclea Lyncestis", "Stobi", "Beroia", "Edessa", "Olynthus", "Stageira", "Cassandreia", "Methone", "Demetrias", "Potidaea", "Apollonia", "Aenea", "Alcomenae", "Amydon", "Antania", "Atalanta", "Berge", "Bouneima"],
