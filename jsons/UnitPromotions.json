@@ -211,7 +211,7 @@
 	//The Third German Reich
 	{
 	"name": "Blitzkrieg",
-	"uniques": ["[+1] Movement <for [This Unit] units> <for [5] turns> <upon declaring war with a major Civilization>", "[1] additional attacks per turn <for [This Unit] units> <for [5] turns> <upon declaring war with a major Civilization>",
+	"uniques": ["[+1] Movement <for [This Unit] units> <for [5] turns> <upon declaring war on [Major] Civilizations>", "[1] additional attacks per turn <for [This Unit] units> <for [5] turns> <upon declaring war on [Major] Civilizations>",
 							"[+1] Movement <for [This Unit] units> <for [3] turns> <upon conquering a city>", "[1] additional attacks per turn <for [This Unit] units> <for [3] turns> <upon conquering a city>"],
 	},
 	{
@@ -301,7 +301,7 @@
 	//Xiongnu
 	{
 		"name": "Hero of The Steppes",
-		"uniques": ["May capture killed [Barbadian] units <with [33]% chance> <before the [Renaissance era]>"],
+		"uniques": ["May capture killed [Barbarian] units <with [33]% chance> <before the [Renaissance era]>"],
 	},
 	//Yamnaya
 	{
@@ -370,8 +370,8 @@
 	//Burma
 	{
 		"name": "[Myinsi] ability",
-		"uniques": ["[+10]% Strength <when fighting in [All] tiles> <within [1] tiles of a [city Center]>",
-		"[+10]% Strength <when fighting in [Foreign Land] tiles> <within [1] tiles of a [city Center]>"],
+		"uniques": ["[+10]% Strength <when fighting in [All] tiles> <within [1] tiles of a [City center]>",
+		"[+10]% Strength <when fighting in [Foreign Land] tiles> <within [1] tiles of a [City center]>"],
 	},
 	//Great Viet
 	{
@@ -404,7 +404,7 @@
 	//Romani
 	{
 		"name": "Romani Ability",
-		"uniques": ["[+33]% Strength <when defending> <for [6] turns> <upon declaring war with a major Civilization>"],
+		"uniques": ["[+33]% Strength <when defending> <for [6] turns> <upon declaring war on [Major] Civilizations>"],
 	},
 	//Micronesia
 	{
@@ -438,12 +438,12 @@
 	//China
 	{
 		"name": "PRC Ability",
-		"uniques": ["All healing effects doubled <for [12] turns> <upon declaring war with a major Civilization>"],
+		"uniques": ["All healing effects doubled <for [12] turns> <upon declaring war on [Major] Civilizations>"],
 	},
 	//Zimbabwe
 	{
 		"name": "[Gano Axeman] ability",
-		"uniques": ["Earn [100]% of killed [Land] unit's [Strength] as [Gold]", "[+10]% Strength <vs [Seige] units>"],
+		"uniques": ["Earn [100]% of killed [Land] unit's [Strength] as [Gold]", "[+10]% Strength <vs [Siege] units>"],
 	},
 	//Macedonia
 	{
@@ -489,7 +489,8 @@
 	//Safavids
 	{
 		"name": "[Gholam] ability",
-		"uniques": ["[+25]% Strength <vs [City] units> <when defending>", "Heals [25] damage if it kills a unit", "[+5]% Strength <when adjacent to a [Wounded] unit>"],
+		"uniques": ["Comment [+25% Strength vs City units when defending]", "Heals [25] damage if it kills a unit", "[+5]% Strength <when adjacent to a [Wounded] unit>",
+					"[+25]% Strength <vs [non-[Non-City]] units> <when defending> <hidded from users>",],
 	},
 	//Druzhina promotions
 	{
