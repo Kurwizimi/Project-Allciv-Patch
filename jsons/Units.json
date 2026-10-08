@@ -1347,7 +1347,7 @@
 	"requiredTech": "Mining",
 	"obsoleteTech": "Civil Service",
 	"upgradesTo": "Pikeman",
-	"uniques": ["[+25]% Strength <when attacking>", "May capture killed [Barbadian] units", "[+50]% Strength <vs [Mounted] units>"],
+	"uniques": ["[+25]% Strength <when attacking>", "May capture killed [Barbarian] units", "[+50]% Strength <vs [Mounted] units>"],
 	"attackSound": "metalhit"
 },
 //Montenegro
@@ -1698,7 +1698,7 @@
 	"strength": 70,
 	"cost": 300,
 	"promotions": ["Drill I"],
-	"uniques": ["[+15]% Strength <in [in cities with a major religion] cities>", "Can remove other religions from cities <in [Friendly] tiles> <once> <after which this unit is consumed>"],
+	"uniques": ["[+15]% Strength <in [in all cities in which the majority religion is a major religion] cities>", "Can remove other religions from cities <in [Friendly] tiles> <once> <after which this unit is consumed>"],
 	"requiredTech": "Plastics",
 	"upgradesTo": "Mechanized Infantry",
 	"obsoleteTech": "Mobile Tactics",
@@ -2263,7 +2263,7 @@
 	"cost": 90,
 	"promotions": ["Medic"],
 	"requiredTech": "Civil Service",
-	"uniques": ["[+50]% Strength <vs [Seige] units>"],
+	"uniques": ["[+50]% Strength <vs [Siege] units>"],
 	"upgradesTo": "Lancer",
 	"obsoleteTech": "Metallurgy",
 	"attackSound": "metalhit"
@@ -2412,7 +2412,7 @@
 	"movement": 4,
 	"cost": 40,
 	"requiredTech": "Sailing",
-	"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "Can instantly construct a [Work Boats] improvement <[3] times> <for all movement> <after which this unit is consumed>",
+	"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "Can instantly construct a [Fishing Boats] improvement <[3] times> <for all movement> <after which this unit is consumed>",
 					"Uncapturable", "Automation is a primary action"]
 },
 //Greenland
