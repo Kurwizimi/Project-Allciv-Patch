@@ -198,7 +198,7 @@
 	"requiredTech": "Astronomy",
 	"upgradesTo": "Ironclad",
 	"obsoleteTech": "Combustion",
-	"uniques": ["[+1] Sight", "May withdraw before melee <with [80]% chance>", "May heal outside of friendly territory",],
+	"uniques": ["[+1] Sight", "Withdraws before melee combat <with [80]% chance>", "May heal outside of friendly territory",],
 	"promotions": ["[Red Djong] ability"],
 	"hurryCostModifier": 30,
 	"attackSound": "cannon"
@@ -639,7 +639,7 @@
 	"requiredTech": "Astronomy",
 	"upgradesTo": "Ironclad",
 	"obsoleteTech": "Combustion",
-	"uniques": ["[+1] Sight", "May withdraw before melee <with [80]% chance>"],
+	"uniques": ["[+1] Sight", "Withdraws before melee combat <with [80]% chance>"],
 	"hurryCostModifier": 30,
 	"attackSound": "cannon"
 },
@@ -2560,7 +2560,7 @@
 	"movement": 2,
 	"strength": 37,
 	"cost": 225,
-	"uniques": ["[This Unit] gains [15] XP <hidden from users>", "Comment [Free Promotion]", "Ignores Terrain Costs <in [Friendly land] tiles>"],
+	"uniques": ["[This Unit] gains [15] XP <hidden from users>", "Comment [Free Promotion]", "Ignores terrain cost <in [Friendly land] tiles>"],
 	"requiredTech": "Rifling",
 	"obsoleteTech": "Replaceable Parts",
 	"upgradesTo": "Great War Infantry",
@@ -2577,7 +2577,7 @@
 	"cost": 30,
 	"requiredTech": "Sailing",
 	"promotions": ["Water Village Builder"],
-	"uniques": ["Cannot enter ocean tiles", "[-50]% Gold cost of upgrading", "No movement cost to pillage", "Never appears as a Barbarian unit", ""],
+	"uniques": ["Cannot enter ocean tiles", "[-50]% Gold cost of upgrading", "No movement cost to pillage", "Never appears as a Barbarian unit"],
 	"upgradesTo": "Caravel",
 	"obsoleteTech": "Astronomy",
 	"attackSound": "nonmetalhit"
