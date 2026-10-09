@@ -201,7 +201,7 @@
 	//Comanche
 	{
 	"name": "Horse Thieves",
-	"uniques": ["May capture killed [Mounted] units <with [100]% chance> <for [Military] units>", "May capture killed [Armoured] units <with [50]% chance> <for [Military] units>"],
+	"uniques": ["May capture killed [Mounted] units <with [100]% chance> <for [Military] units>", "May capture killed [Armored] units <with [50]% chance> <for [Military] units>"],
 	},
 	//Syria
 	{
