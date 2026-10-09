@@ -5212,7 +5212,7 @@
 	"[-25]% construction time for [Fort] improvements",
 	"[-100]% maintenance costs <for [Siege] units> <when not at war> <hidden from users>",
 	"[-100]% maintenance costs <for [Armored] units> <when not at war> <hidden from users>",
-	"[-100]% maintenance costs <for [Nuclear Bomber] units> <when not at war> <hidden from users>",
+	"[-100]% maintenance costs <for [Atomic Bomber Bomber] units> <when not at war> <hidden from users>",
 	"[-100]% maintenance costs <for [Nuclear Missile] units> <when not at war> <hidden from users>"],
 
 	"spyNames": ["Hyon-hui", "Il-sung", "Jong-il", "Sun-sil", "Jeong-hwa", "Chae-so", "Min-jun", "Ji-hoon", "Ga-in", "Dong-hyun"],
