@@ -85,8 +85,8 @@
 	//Cuba
 	{
 		"name": "Cuban Revolutionary",
-		"uniques": ["May withdraw before melee <with [20]% chance>",
-		"May withdraw before melee <with [65]% chance> <when adjacent to a [Revolucionario] unit>",
+		"uniques": ["Withdraws before melee combat <with [20]% chance>",
+		"Withdraws before melee combat <with [65]% chance> <when adjacent to a [Revolucionario] unit>",
 	 "Invisible to non-adjacent units <in [Forest] tiles>",
 	 "Invisible to non-adjacent units <in [Jungle] tiles>",
 	 "Can build [Rebel Camp] improvements on tiles",
@@ -97,7 +97,7 @@
 	},
 	{
 		"name": "Capoeira",
-		"uniques": ["May withdraw before melee <with [15]% chance>", "Can move after attacking"]
+		"uniques": ["Withdraws before melee combat <with [15]% chance>", "Can move after attacking"]
 	},
 	{
 		"name": "River Walker",
@@ -182,7 +182,7 @@
 	//Belize
 	{
 	"name": "[Garifuna Guerrilla] ability",
-	"uniques": ["May withdraw before melee <with [50]% chance>", "Invisible to non-adjacent units <in [Friendly Land] tiles>"],
+	"uniques": ["Withdraws before melee combat <with [50]% chance>", "Invisible to non-adjacent units <in [Friendly Land] tiles>"],
 	},
 	//The UN
 	{
