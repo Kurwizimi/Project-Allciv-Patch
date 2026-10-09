@@ -5278,7 +5278,7 @@
 
 	"uniqueName": "Island of Technology",
 	"uniques": [
-		"Enter a 2-turn Golden Age upon discovering a technology with the Golden Age length increasing by 1-turn for every 2 eras",
+		"Comment [Enter a 2-turn Golden Age upon discovering a technology with the Golden Age length increasing by 1-turn for every 2 eras]",
 		"Empire enters a [2]-turn Golden Age <upon discovering [Ancient era] technology> <hidden from users>",
 		"Empire enters a [2]-turn Golden Age <upon discovering [Classical era] technology> <hidden from users>",
 		"Empire enters a [3]-turn Golden Age <upon discovering [Medieval era] technology> <hidden from users>",
@@ -5509,7 +5509,7 @@
 	"innerColor": [28, 15, 19],
 
 	"uniqueName": "Seasonal Round",
-	"uniques": ["Unimproved resources will gain a bonus stat as if they were improved if the tech required for the improvement is research",
+	"uniques": ["Comment [Unimproved resources will gain a bonus stat as if they were improved if the tech required for the improvement is research]",
 	"[+20]% growth [in all cities] <with [0] to [0] neighboring [Improvement] tiles>",
 	"[+1 Food] from every [{unimproved} {non-[resource]} {Open terrain}] <after discovering [Agriculture]> <hidden from users>",
 	"[+1 Gold] from every [{unimproved} {Luxury resource}] <after discovering [Calendar]> <hidden from users>",
