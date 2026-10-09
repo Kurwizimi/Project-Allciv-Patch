@@ -490,7 +490,7 @@
 	{
 		"name": "[Gholam] ability",
 		"uniques": ["Comment [+25% Strength vs City units when defending]", "Heals [25] damage if it kills a unit", "[+5]% Strength <when adjacent to a [Wounded] unit>",
-					"[+25]% Strength <vs [non-[Non-City]] units> <when defending> <hidded from users>",],
+					"[+25]% Strength <vs [non-[Non-City]] units> <when defending> <hidden from users>",],
 	},
 	//Druzhina promotions
 	{
