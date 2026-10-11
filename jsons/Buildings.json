@@ -1693,7 +1693,7 @@
 		},
 		//Svalbard
 		{
-			"name": "International Seed Vault",
+			"name": "International Seed Vault GK",
 			"uniqueTo": "Svalbard",
 			"replaces": "National Treasury",
 			"cost": 125,
@@ -1711,9 +1711,9 @@
 			"requiredTech": "Guilds"
 		},
 	{
-        "name": "East India Company",
+        "name": "International Seed Vault BNW",
 		"uniqueTo": "Svalbard",
-		"replaces": "National Treasury",
+		"replaces": "East India Company",
         "cost": 125,
         "gold": 2,
 		"science": 4,
