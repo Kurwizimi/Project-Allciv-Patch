@@ -1692,44 +1692,24 @@
 			"uniques": ["Destroyed when the city is captured", "[+2 Faith, +1 Culture] [in this city] <after founding a Pantheon>",]
 		},
 		//Svalbard
-		{
-			"name": "International Seed Vault GK",
-			"uniqueTo": "Svalbard",
-			"replaces": "National Treasury",
-			"cost": 125,
-			"gold": 8,
-			"science": 4,
-			"happiness": 2,
-			"culture": 1,
-			"isNationalWonder": true,
-			"uniques": ["[+20]% [Science] [in this city]",
-			"Free [Great Scientist] appears",
-			"[+1 Happiness, +1 Science] [in non-enemy foreign cities]",
-			"Only available <if [Market] is constructed in all [non-[Puppeted]] cities>",
-			"Cost increases by [30] per owned city",
-			"Only available <if [Civ V Brave New World] is not enabled>"],
-			"requiredTech": "Guilds"
-		},
 	{
-        "name": "International Seed Vault BNW",
+		"name": "International Seed Vault",
 		"uniqueTo": "Svalbard",
-		"replaces": "East India Company",
-        "cost": 125,
-        "gold": 2,
-		"science": 4,
+        "replaces": "Oxford University",
+		"cost": 125,
+		"science": 7,
 		"happiness": 2,
-        "isNationalWonder": true,
-		"requiredBuilding": "Market",
-        "uniques": ["[+20]% [Science] [in this city]",
-			"Free [Great Scientist] appears",
-			"[+1 Happiness, +1 Science] [in non-enemy foreign cities]",
-			// Trade Routes with other players made to a city with an East India Company will generate an extra 4 Gold for the city owner.
-			"[+1 Gold] from each Trade Route", // ... and the Trade Route owner gains an additional 2 Gold for the Trade Route.
-            "Cost increases by [30] per owned city",
-			"Only available <if [Civ V Brave New World] is enabled> "
-		],
-        "requiredTech": "Guilds"
-    },
+		"culture": 1,
+		"isNationalWonder": true,
+		"uniques": ["[+20]% [Science] [in this city]",
+            "Free [Great Scientist] appears",
+            "[+1 Happiness, +1 Science] [in non-enemy foreign cities]",
+			"Only available <if [University] is constructed in all [non-[Puppeted]] cities>",
+			"Free Technology",
+			"Cost increases by [30] per owned city"],
+		"requiredTech": "Education"
+	},
+
 		//Aland
 		{
 			"name": "Rapakivi Quarry",
