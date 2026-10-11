@@ -1706,9 +1706,30 @@
 			"Free [Great Scientist] appears",
 			"[+1 Happiness, +1 Science] [in non-enemy foreign cities]",
 			"Only available <if [Market] is constructed in all [non-[Puppeted]] cities>",
-			"Cost increases by [30] per owned city"],
+			"Cost increases by [30] per owned city",
+			"Only available <if [Civ V Brave New World] is not enabled>"],
 			"requiredTech": "Guilds"
 		},
+	{
+        "name": "East India Company",
+		"uniqueTo": "Svalbard",
+		"replaces": "National Treasury",
+        "cost": 125,
+        "gold": 2,
+		"science": 4,
+		"happiness": 2,
+        "isNationalWonder": true,
+		"requiredBuilding": "Market",
+        "uniques": ["[+20]% [Science] [in this city]",
+			"Free [Great Scientist] appears",
+			"[+1 Happiness, +1 Science] [in non-enemy foreign cities]",
+			// Trade Routes with other players made to a city with an East India Company will generate an extra 4 Gold for the city owner.
+			"[+1 Gold] from each Trade Route", // ... and the Trade Route owner gains an additional 2 Gold for the Trade Route.
+            "Cost increases by [30] per owned city",
+			"Only available <if [Civ V Brave New World] is enabled> "
+		],
+        "requiredTech": "Guilds"
+    },
 		//Aland
 		{
 			"name": "Rapakivi Quarry",
