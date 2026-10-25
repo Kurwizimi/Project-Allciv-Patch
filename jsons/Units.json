@@ -2560,7 +2560,7 @@
 	"movement": 2,
 	"strength": 37,
 	"cost": 225,
-	"uniques": ["[This Unit] gains [15] XP <hidden from users>", "Comment [Free Promotion]", "Ignores terrain cost <in [Friendly land] tiles>"],
+	"uniques": ["[This Unit] gains [15] XP <hidden from users>", "Comment [Free Promotion]", "Ignores terrain cost <in [Friendly Land] tiles>"],
 	"requiredTech": "Rifling",
 	"obsoleteTech": "Replaceable Parts",
 	"upgradesTo": "Great War Infantry",
